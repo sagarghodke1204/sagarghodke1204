@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarghodke1204
+- 👋 Hi, I’m Sagar
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning sofware development
 - 💞️ I’m looking to collaborate on  java and javascript
